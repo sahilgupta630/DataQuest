@@ -1,0 +1,12 @@
+.DS_Store
+.vscode/*
+.env
+__pycache__
+# *.db
+# processed_news.csv
+chats/
+# stream_data.jsonl
+# file_tracker.json
+*.log
+debug_sync.txt
+debug_api.key
